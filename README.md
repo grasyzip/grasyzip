@@ -7,7 +7,7 @@
 ### Hello World ! 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=350 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=grasyip&layout=donut-vertical&langs_count=8&card_width=320&theme=black" />
+  <img height=350 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=grasyzip&layout=donut-vertical&langs_count=8&card_width=320&theme=black" />
 </a>
 
 <a>
