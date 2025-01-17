@@ -13,7 +13,7 @@
 <a>
 Estudante de Técnico em Informatica no Instituto Federal, Campus Cubatão.
   
-Atualmente usando codigos para o desenvolvimento do TCC e como Hobbie. 
+Atualmente usando codigos como Hobbie. 
 
 ___
 
