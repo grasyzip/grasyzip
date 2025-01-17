@@ -48,4 +48,4 @@ ___
 
 <h3>Quer me conhecer melhor?</h3>
 
-Para me conhecer melhor você pode olhar meu [Carrd](https://aigkori.carrd.co) ou me conhecer pelo [Notion]() !
+Para me conhecer melhor você pode olhar meu [Carrd]([ttps://grelly.carrd.co]) !
