@@ -48,4 +48,4 @@ ___
 
 <h3>Quer me conhecer melhor?</h3>
 
-Para me conhecer melhor você pode olhar meu [Carrd]([https://grelly.carrd.co]) !
+Para me conhecer melhor você pode olhar meu [Carrd](https://grelly.carrd.co) !
