@@ -13,7 +13,7 @@
 <a>
 Estudante de Sistemas de Informação pela Universidade Santa Cecília, Santos-SP.
   
-Atualmente fazendo codigos como Hobbie. 
+Atualmente fazendo códigos como Hobbie. 
 
 ___
 
@@ -48,4 +48,4 @@ ___
 
 <h3>Quer me conhecer melhor?</h3>
 
-Para me conhecer melhor você pode olhar meu [Carrd](https://grelly.carrd.co) ou quer se conectar ao [LinkedIn(https://www.linkedin.com/in/grasielly-ribeiro-362b902b9/)]!
+Para me conhecer melhor você pode olhar meu [Carrd](https://grelly.carrd.co) ou quer se conectar ao [LinkedIn](https://www.linkedin.com/in/grasielly-ribeiro-362b902b9/)!
