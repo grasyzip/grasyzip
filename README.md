@@ -11,7 +11,7 @@
 </a>
 
 <a>
-Estudante de Sistemas de Informação pela Universidade Santa Cecíclia, Santos-SP.
+Estudante de Sistemas de Informação pela Universidade Santa Cecília, Santos-SP.
   
 Atualmente fazendo codigos como Hobbie. 
 
