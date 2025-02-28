@@ -11,9 +11,9 @@
 </a>
 
 <a>
-Estudante de Técnico em Informatica no Instituto Federal, Campus Cubatão.
+Estudante de Sistemas de Informação pela Universidade Santa Cecíclia, Santos-SP.
   
-Atualmente usando codigos como Hobbie. 
+Atualmente fazendo codigos como Hobbie. 
 
 ___
 
@@ -48,4 +48,4 @@ ___
 
 <h3>Quer me conhecer melhor?</h3>
 
-Para me conhecer melhor você pode olhar meu [Carrd](https://grelly.carrd.co) !
+Para me conhecer melhor você pode olhar meu [Carrd](https://grelly.carrd.co) ou quer se conectar ao [LinkedIn(https://www.linkedin.com/in/grasielly-ribeiro-362b902b9/)]!
